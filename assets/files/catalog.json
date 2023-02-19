@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Apple",
+            "desc": "An apple a day keeps the doctor away",
+            "price": 230,
+            "color": "#33505a",
+            "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/462106a.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Banana",
+            "desc": "One of the most popular fruits in the world",
+            "price": 30,
+            "color": "#00ac51",
+            "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/470636a.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Watermelon",
+            "desc": "Summer's best choice",
+            "price": 80,
+            "color": "#e0bfae",
+            "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/369752a.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Orange",
+            "desc": "Life is like an orange, a little sweet, a little sour",
+            "price": 68,
+            "color": "#544ee4",
+            "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/69047a.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Mango",
+            "desc": "King of all Fruits",
+            "price": 100,
+            "color": "#e3e4e9",
+            "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/365536a.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Papaya",
+            "desc": "Helps in digestion,skin cleanser and boosts immunity",
+            "price": 80,
+            "color": "#f73984",
+            "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/189821a.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Grape",
+            "desc": "Nutritional berries with a sweet-sour taste",
+            "price": 90,
+            "color": "#1c1c1c",
+            "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/169132a.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Kiwi",
+            "desc": "Sweet taste lends to a unique flavor and tropical zing",
+            "price": 105,
+            "color": "#7c95eb",
+            "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/394525a.jpg"
+        }
+    ]
+}
